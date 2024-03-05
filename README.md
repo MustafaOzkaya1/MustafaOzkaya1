@@ -1,4 +1,4 @@
-![Masterhead](https://cdn.go2topit.com/assets/img/service-details/17_Mobile%20App%20Development.gif)
+![Masterhead](https://t4.ftcdn.net/jpg/02/39/40/07/360_F_239400736_SKFsznd7aNP6meOhUE3qavD31IDCLATd.jpg)
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A Mobile Application Developer from Turkey</h3>
 
