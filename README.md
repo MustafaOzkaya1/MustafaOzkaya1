@@ -1,4 +1,4 @@
-![Masterhead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-mobile-app.png)
+![Masterhead](https://cdn.go2topit.com/assets/img/service-details/17_Mobile%20App%20Development.gif)
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A Mobile Application Developer from Turkey</h3>
 
