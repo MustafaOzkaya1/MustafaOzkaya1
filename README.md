@@ -1,4 +1,4 @@
-![Masterhead](https://bridgestacks.com/wp-content/uploads/2020/09/mobile-app-development-banner.jpg)
+![Masterhead](https://miro.medium.com/v2/resize:fit:1358/1*zy5IG2inEQSqeWyPJ7vo-g.gif)
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A Mobile Application Developer from Turkey</h3>
 
